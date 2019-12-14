@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace test003
 {
-    class Class1
+    class Class2
     {
-        //测试，可以了。
     }
 }
