@@ -10,6 +10,7 @@ namespace test003
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("成功了！！！！");
         }
     }
 }
